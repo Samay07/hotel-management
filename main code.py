@@ -1,5 +1,5 @@
 # hotel-management
-// This is a Simple python code for hotel management , without any kind of data base support 
+# This is a Simple python code for hotel management , without any kind of data base support 
 import random
 import datetime
 
