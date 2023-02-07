@@ -1,5 +1,3 @@
-# hotel-management
-# This is a Simple python code for hotel management , without any kind of data base support 
 import random
 import datetime
 
@@ -24,7 +22,7 @@ i = 0
 # Home Function
 def Home():
 	
-	print("\t\t\t\t\t\t WELCOME TO HOTEL Luffy\n")
+	print("\t\t\t\t\t\t WELCOME TO Going Marry\n")
 	print("\t\t\t 1 Booking\n")
 	print("\t\t\t 2 Rooms Info\n")
 	print("\t\t\t 3 Room Service(Menu Card)\n")
@@ -327,7 +325,7 @@ def restaurant():
 		if custid[n]==ph and p[n]==0:
 			f=1
 			print("-------------------------------------------------------------------------")
-                        print("                                             Restraunt Sanji ")
+			print("						 Hotel Going Marry")
 			print("-------------------------------------------------------------------------")
 			print("						 Menu Card")
 			print("-------------------------------------------------------------------------")
