@@ -130,7 +130,7 @@ def date(c):
 
 
 # Booking function
-		def Booking():
+def Booking():
 	
 		# used global keyword to
 		# use global variable 'i'
